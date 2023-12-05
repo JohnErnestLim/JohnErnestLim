@@ -1,4 +1,4 @@
-# Hello, I'm John Ernest Lim! 👋
+# Hello everyone, I'm John Ernest Lim! 👋
 
 I am interested about database management and coding, which led me to pursue the BS Information Technology course. I'm also passionate about learning and sharing knowledge with other people. 
 
