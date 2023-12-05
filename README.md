@@ -2,7 +2,7 @@
 
 I am interested about database management and coding, which led me to pursue the BS Information Technology course. I'm also passionate about learning and sharing knowledge with other people. 
 
-My tech journey started when I came across a video in which a skilled programmer created his own version of a popular game, which sparked my interest in programming and coding.
+My tech journey started when I came across a video of a skilled programmer creating his own version of a popular game, which sparked my interest in programming and coding.
 
 ## Education
 
