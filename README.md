@@ -17,6 +17,7 @@ My tech journey started when I came across a video of a skilled programmer creat
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FEA8FEEBF858787015A25B5027FC91B6C2EA8E809492B2A3317C1D5B3735EB23)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4054485013AABBFBEB11C27EDD1EB37D546AC5852AB4707C2C481B818167E65E)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c51b1dba95bf4115a266da2dfe076054)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/87d7dc95128f4a2280fa69c8bc779df8)
 
 ## Skill Sets
 
