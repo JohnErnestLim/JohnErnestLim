@@ -23,7 +23,7 @@ My tech journey started when I came across a video of a skilled programmer creat
 
 - **Programming:** Java, JavaScript, Python, HTML, CSS
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Eclipse, NetBeans, IntelliJ, VSCode
+- **Tools:** Lucidchart, Eclipse, NetBeans, IntelliJ, VSCode, Canva, Figma
 
 ## Connect with Me
 
