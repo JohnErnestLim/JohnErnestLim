@@ -21,9 +21,9 @@ My tech journey started when I came across a video of a skilled programmer creat
 
 ## Skill Sets
 
-- **Programming:** Java, JavaScript
+- **Programming:** Java, JavaScript, Python, HTML, CSS, Javascript
 - **Databases:** IBM DB2 Cloud
-- **Tools:** HTML, CSS, Lucidchart, Eclipse, NetBeans, IntelliJ
+- **Tools:** Lucidchart, Eclipse, NetBeans, IntelliJ, VSCode
 
 ## Connect with Me
 
